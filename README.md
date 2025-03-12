@@ -1,6 +1,4 @@
-# Hi there! 👋 I'm Panggíng
-
-![Header Image](https://yourimageurl.com/header.png)
+# Hi there! 👋 I'm P Panggíng
 
 🔹 **Researcher** | Focused on Tani languages  
 🔹 **Developer** | Learning programming languages  
