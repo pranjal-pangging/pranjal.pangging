@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm P Panggíng
+# Hi there! 👋 I'm Pranjal Panggíng
 
 🔹 **Researcher** | Focused on Tani languages  
 🔹 **Developer** | Learning programming languages  
